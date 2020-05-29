@@ -1,0 +1,88 @@
+
+/*============
+
+This file only contains the theme color schemes, (not the style ) If you want to change the color
+ schemes of the theme 
+just change the color code  and rgba value. The whole theme color will be changed.
+
+===========*/
+
+
+
+
+
+/* Filter the 'background' value classes*/
+
+.switcher .switch_btn button, .main-header, .navigation > li > ul > li:hover, .search-box-area .form-group
+button, .btn-bg, .single-working-content:hover .icon, .single-working-content .count-text, .owl-theme
+.owl-dots .owl-dot span, .single-help-content.fourth-column .input-box button, .single-news-content .meta,
+.team-section .owl-theme .owl-controls .owl-nav .owl-prev:hover, .team-section .owl-theme .owl-controls
+.owl-nav .owl-next:hover, .single-team-content .team-social li a, .our-history .owl-theme .owl-controls
+.owl-nav .owl-prev:hover, .our-history .owl-theme .owl-controls .owl-nav .owl-next:hover, .offer-content
+.offer-btn a, .accordion-box .accordion .acc-btn .title h3, .service-sidebar-content .categories-list li
+a.active, .service-sidebar-content .categories-list li a:hover, .service-sidebar-content .download a,
+.service-sidebar-content .share li a, .sidbar-page-container .sidebar-search .input-box button,
+.link-btn li a:hover, .link-btn li a.active, .blog-details-content .post-share-option .left-content
+.post-social li a:hover, .contact-section .contact-form-area, .single-pricing-content:hover .pricing-btn a {
+    background: rgb(7, 119, 119);
+}
+
+
+/* background style two */
+
+.single-item-hoverly .overlay,.video-gallery:hover .overlay-gallery
+
+{
+	background: rgba(108, 150, 255, 0.50);
+}
+.single-counter-content
+
+{
+	background: rgba(108, 150, 255, 0.20);
+}
+
+
+
+/* Filter the 'color' value classes*/
+
+.header-top .header-info .top-btn a,.navigation > li > a,.navigation > li > ul > li > a,.search-box-area 
+.search-toggle i:before,.btn-one:hover,.main-slider .title span,.sec-title span,.single-choose-content h3,
+.single-counter-content .text h4,h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,.single-help-content 
+.top-content i:before,.single-help-content .call,.single-help-content .button a,.owl-theme .owl-controls 
+.owl-nav [class*="owl-"] span,.single-testimonial-content .title,.single-pricing-content .icon-box i:before,
+.single-pricing-content .list li:before,.apps-content .top-text,.apps-content h2 span,.logo-widget 
+.location-box .icon-box i:before,.logo-widget .footer-social li a:hover,.footer-title h4,.service-widget 
+.list li a:hover,.blog-widget .text a:hover,.instagram-widget .subscribe-widget .input-box button,
+.footer-bottom .copyright, .footer-bottom .copyright a,.about-content .top-text,.single-team-content 
+.lower-content .text,.history-content .slider-content h4,.error-section .title,.service-details-content 
+.title h3,.price-list-section .price-btn a,.self-service h3,a:hover,.blog-details-content .post-share-option 
+.right-content a,.contact-section .contact-info h3,.contact-section .contact-info .icon-box i:before,
+.contact-section .social-info h4,.contact-section .social-info li a:hover,.contact-section 
+.contact-form-area button
+
+ {
+	color:#82a5fd;
+}
+
+/* Filter the 'border color' value classes*/
+
+.search-box-area input,.btn-bg,.single-help-content,.single-help-content .button a,.single-help-content 
+.skype a,.single-help-content.fourth-column .input-box input,.apps-content .apps-box .single-apps-box,
+.logo-widget .footer-social li a:hover,.service-sidebar-content .categories-list li a.active, 
+.service-sidebar-content .categories-list li a:hover,.sidbar-page-container .sidebar-search input,
+.blog-details-content .comment-form input:focus, .blog-details-content .comment-form textarea:focus,
+.contact-section .contact-info .icon-box,.contact-section .social-info li a,.single-pricing-content:hover 
+.pricing-btn a
+
+{
+  border-color:#82a5fd;
+}
+
+
+
+/* change the theme logo for your own color schemes */
+
+.logo-box {
+    background: url(../../images/logo/logo1.png) no-repeat 9% 100%;
+}
+
